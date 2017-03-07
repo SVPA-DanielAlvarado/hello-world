@@ -1,4 +1,4 @@
 # hello-world
 testing this thing out
 I'm Dan, I need coffee from time to time.
-tryng to make this work
+trying to make this work
